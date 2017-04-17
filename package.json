@@ -1,6 +1,6 @@
 {
-  "name": "javascript-detect-element-resize",
-  "version": "0.5.3",
+  "name": "jquery-detect-element-resize",
+  "version": "1.0.0",
   "description": "A Cross-Browser, Event-based, Element Resize Detection",
   "main": "detect-element-resize.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sdecima/javascript-detect-element-resize"
+    "url": "https://github.com/fcoo/jquery-detect-element-resize"
   },
   "keywords": [
     "resize",
@@ -20,9 +20,9 @@
   "author": "Sebastián Décima (https://github.com/sdecima/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sdecima/javascript-detect-element-resize/issues"
+    "url": "https://github.com/fcoo/jquery-detect-element-resize/issues"
   },
-  "homepage": "https://github.com/sdecima/javascript-detect-element-resize",
+  "homepage": "https://github.com/fcoo/jquery-detect-element-resize",
   "devDependencies": {
     "browserify": "^6.3.3"
   }

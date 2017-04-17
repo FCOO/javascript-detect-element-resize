@@ -1,7 +1,7 @@
-javascript-detect-element-resize
+jquery-detect-element-resize
 ================================
 
-A Cross-Browser, Event-based, Element Resize Detection.
+**jquery-detect-element-resize** is the jQuery version of [javascript-detect-element-resize](https://github.com/sdecima/javascript-detect-element-resize) - aCross-Browser, Event-based, Element Resize Detection.
 
 In short, this implementation does NOT use an internal timer to detect size changes (as most implementations I found do).
 It uses `scroll` events on most browsers, and the [`onresize` event][5] on IE10 and below.
